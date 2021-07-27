@@ -1,0 +1,23 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+
+.categories-bg-orange{
+    background-color: orange;
+}
+
+.categories-bg-orchid{
+    background-color: orchid;
+}
+
+.categories-bg-blue{
+    background-color: blue;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.button-color{
+    background-image: linear-gradient(#FF589B, #FF136F);
+}
